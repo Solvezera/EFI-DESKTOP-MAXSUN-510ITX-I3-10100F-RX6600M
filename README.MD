@@ -1,6 +1,6 @@
 # Maxsun H510 ITX + i3 10100F + RX 6600 M + Wifi / BT Fenvi BCM943602CS
 
-![about-13 1](inserir imagem)
+![about-13 1](https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/INFOS/About%20this%20mac.png)
 
 **Latest working macOS**: 13.1
 <br>
