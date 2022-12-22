@@ -39,7 +39,15 @@
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases)
 
 ## Geekbench Results
-- reserved to tests
+
+![GEEKBENCH DEVICE](https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/GEEKBENCH/DEVICE.png)
+- [CPU](https://browser.geekbench.com/v5/cpu/19455100)
+![GEEKBENCH CPU](https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/GEEKBENCH/CPU%20Benchmark.png)
+- [OPEN CL](https://browser.geekbench.com/v5/compute/6114680)
+![GEEKBENCH OPEN CL](https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/GEEKBENCH/OPEN%20CL.png)
+- [METAL](https://browser.geekbench.com/v5/compute/6114681)
+![GEEKBENCH METAL](https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/GEEKBENCH/METAL.png)
+
 
 ## Special Notes
 - Remember to use GenSMBIOS and change MASKED properties in `config.plist`.
