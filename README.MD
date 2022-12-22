@@ -42,6 +42,7 @@
 <p align="center">
   <img width="539" height="439" src="https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/GEEKBENCH/DEVICE.png">
 </p>
+
 - [CPU](https://browser.geekbench.com/v5/cpu/19455100)
 ![GEEKBENCH CPU](https://github.com/Solvezera/EFI-DESKTOP-MAXSUN-510ITX-I3-10100F-RX6600M/blob/main/GEEKBENCH/CPU%20Benchmark.png)
 - [OPEN CL](https://browser.geekbench.com/v5/compute/6114680)
